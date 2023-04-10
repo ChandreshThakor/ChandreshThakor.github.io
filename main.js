@@ -14,7 +14,7 @@ __webpack_require__.r(__webpack_exports__);
 
 class HeaderComponent {
     constructor() {
-        this.name = 'Chandresh Thakor';
+        this.name = 'Classic ';
     }
     ngOnInit() {
     }
