@@ -601,7 +601,7 @@ __webpack_require__.r(__webpack_exports__);
 
 class HomePageComponent {
     constructor() {
-        this.name = 'Chandresh Thakor';
+        this.name = 'Classic';
         this.frontEndSkill = 'Html, Html5, Css, Css3, JavaScript, Angular 9+, ReactJS';
         this.appDevSkill = 'React Native, Flutter, TypeScript, JavaScript, Dart';
         this.backEndSkill = 'Node, Spring, SpringMVC,Django, Java, JavaScript, Python';
