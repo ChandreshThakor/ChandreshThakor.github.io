@@ -659,7 +659,7 @@ HomePageComponent.ɵcmp = _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵdefine
         _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementStart"](25, "div");
         _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementStart"](26, "span", 15);
-        _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵtext"](27, "Back-End and Front-end Developer");
+        _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵtext"](27, "Back-End Developer");
         _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementStart"](28, "p", 16);
         _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵtext"](29, " I develop websites and web API. I'm a software engineer. Over the years, I have had the opportunity to work in a wide spectrum of web technology, which has given me significant experience. I have Angular, NodeJS, React Native, and lots of skills. Currently, I working in Angular, ReactJS, NodeJs and MogoDB. Also doing self-learning and gaining a lot of skills in a web developer. ");
