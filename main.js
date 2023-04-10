@@ -14,7 +14,7 @@ __webpack_require__.r(__webpack_exports__);
 
 class HeaderComponent {
     constructor() {
-        this.name = 'Classic chandu';
+        this.name = 'Chandresh Thakor';
     }
     ngOnInit() {
     }
@@ -601,7 +601,7 @@ __webpack_require__.r(__webpack_exports__);
 
 class HomePageComponent {
     constructor() {
-        this.name = 'Classic';
+        this.name = 'Chandresh Thakor';
         this.frontEndSkill = 'Html, Html5, Css, Css3, JavaScript, Angular 9+, ReactJS';
         this.appDevSkill = 'React Native, Flutter, TypeScript, JavaScript, Dart';
         this.backEndSkill = 'Node, Spring, SpringMVC,Django, Java, JavaScript, Python';
@@ -1425,7 +1425,7 @@ FooterComponent.ɵcmp = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵdefineCo
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](8, "p", 8);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](9, "\u00A9 2021. All rights reserved by ");
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](10, "a", 9);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](11, "Classic Chandu.");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](11, "Chandresh Thakor.");
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
